@@ -1,6 +1,6 @@
-....AA
-..BBCC
-rr..EF
-GGHHEF
-...IEF
-...IJJ
+AAABC.
+..DBC.
+rrD.C.
+F.EEGG
+FHH..I
+JJJ..I
